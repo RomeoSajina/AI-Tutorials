@@ -50,7 +50,7 @@ theme: uncover
 
 * Želite prezentirati nešto vezano za IT što pruža neku vrijednost ostalima? Dobrodošli.
 
-* Ako imate ideje, trebate pomoć na nekom vašem području - javite se, bacite poruku na Facebook grupu, pošaljite poruku nekome od nas - vrlo je vjerojatno da vam možemo dati savijet, pomoći ili vas makar usmjeriti prema ljudima koji znaju kako to riješiti
+* Ako imate ideje, trebate pomoć na nekom vašem području - javite se, bacite poruku na Facebook grupu, pošaljite poruku nekome od nas - vrlo je vjerojatno da vam možemo dati savjet, pomoći ili vas makar usmjeriti prema ljudima koji znaju kako to riješiti
 
 * Dugoročni cilj: oformljavanje grupa koja rješava tekuće probleme ljudi
 
